@@ -12,5 +12,9 @@ int main(void) {
 	printf("%d\n", 1234);
 	printf("%d %d\n", 10, 20);
 
+	printf("My age: %d \n", 20);
+	printf("%d is my point \n", 100);
+	printf("Good \nmorning \neverybody\n");
+
 	return 0;
 }
