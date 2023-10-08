@@ -18,5 +18,11 @@
     <ClCompile Include="프로그램의 기본구성.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="C언어의 기본.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="변수와 연산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

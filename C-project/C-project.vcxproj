@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="C언어의 기본.c" />
+    <ClCompile Include="변수와 연산.c" />
     <ClCompile Include="프로그램의 기본구성.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
